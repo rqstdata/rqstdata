@@ -1,4 +1,4 @@
-### Привет, я [@georgb15](https://requestdata.ru) 👋
+### Привет, я [RequestData](https://requestdata.ru) 👋
 
 🔮 Я начинающий скриптер в среде LUA, HTML и CSS. Я потратил достаточно много времени чтобы освоиться тут xD
 ###
