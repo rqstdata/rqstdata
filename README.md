@@ -8,7 +8,7 @@
 
 <code><a href="https://t.me/requestdata"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a></code> 
 
-### Языки которые я юзаю в больнишенстве моих проектов
+### Языки которые я юзаю в большинстве моих проектов
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code> 
 <code><img height="32" width="32" src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png"></code>
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code> 
