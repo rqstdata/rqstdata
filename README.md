@@ -1,20 +1,51 @@
-### Привет, я [RequestData](https://requestdata.ru) 👋
+<h2 align="left">Hi 👋! My name is Georg</h2>
 
-🔮 Я начинающий скриптер в среде LUA, HTML и CSS. Я потратил достаточно много времени чтобы освоиться тут xD
 ###
-🎮 Играю бывает в Minecraft, Garry's Mod, CS:GO, CS 1.6 и в другие игры также
 
-Если у вас есть что-то интересное, то не стесняйтесь писать мне:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rqstdata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rqstdata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<code><a href="https://t.me/requestdata"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a></code> 
+###
 
-### Языки которые я юзаю в большинстве моих проектов
-<code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code> 
-<code><img height="32" width="32" src="https://download.logo.wine/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.png"></code>
-<code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code> 
-<code><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>
-<code><img width="32" height="32" src="https://www.pngrepo.com/png/159311/512/pawn.png"></code> 
-<code><img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
 
+###
 
-### Пока что все, на этом пока мое знакомство завершено :)
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rqstdata/rqstdata/output/snake.svg" alt="Snake animation" />
+
+###
